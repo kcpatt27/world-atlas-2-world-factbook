@@ -36,7 +36,7 @@ id	created_at	name	name_long	type	iso_n3	iso_a2	continent	income_grp	economy	sub
 35	2024-09-11 16:16:09.249553+00	Belize	Belize	Sovereign country	84	BH	North America	4. Lower middle income	6. Developing region	Central America	Central-America-n-Caribbean
 36	2024-09-11 16:16:09.249553+00	Bermuda	Bermuda	Dependency	60	BD	North America	2. High income: nonOECD	2. Developed region: nonG7	Northern America	North-America
 37	2024-09-11 16:16:09.249553+00	Bolivia	Bolivia	Sovereign country	68	BL	South America	4. Lower middle income	5. Emerging region: G20	South America	South-America
-38	2024-09-11 16:16:09.249553+00	Brazil	Brazil	Sovereign country	761	BR	South America	3. Upper middle income	3. Emerging region: BRIC	South America	South-America
+38	2024-09-11 16:16:09.249553+00	Brazil	Brazil	Sovereign country	76	BR	South America	3. Upper middle income	3. Emerging region: BRIC	South America	South-America
 39	2024-09-11 16:16:09.249553+00	Barbados	Barbados	Sovereign country	52	BB	North America	2. High income: nonOECD	6. Developing region	Caribbean	Central-America-n-Caribbean
 40	2024-09-11 16:16:09.249553+00	Brunei	Brunei Darussalam	Sovereign country	96	BX	Asia	2. High income: nonOECD	6. Developing region	South-Eastern Asia	East-n-Southeast-Asia
 41	2024-09-11 16:16:09.249553+00	Bhutan	Bhutan	Sovereign country	64	BT	Asia	4. Lower middle income	7. Least developed region	Southern Asia	South-Asia
