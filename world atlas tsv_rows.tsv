@@ -33,13 +33,13 @@ id	created_at	name	name_long	type	iso_n3	iso_a2	continent	income_grp	economy	sub
 32	2024-09-11 16:16:09.249553+00	Bosnia and Herz.	Bosnia and Herzegovina	Sovereign country	070	BK	Europe	3. Upper middle income	6. Developing region	Southern Europe	Europe
 33	2024-09-11 16:16:09.249553+00	St-Barthélemy	Saint-Barthélemy	Dependency	652	TB	North America	1. High income: OECD	2. Developed region: nonG7	Caribbean	Central-America-n-Caribbean
 34	2024-09-11 16:16:09.249553+00	Belarus	Belarus	Sovereign country	112	BO	Europe	3. Upper middle income	6. Developing region	Eastern Europe	Europe
-35	2024-09-11 16:16:09.249553+00	Belize	Belize	Sovereign country	84	BH	North America	4. Lower middle income	6. Developing region	Central America	Central-America-n-Caribbean
+35	2024-09-11 16:16:09.249553+00	Belize	Belize	Sovereign country	084	BH	North America	4. Lower middle income	6. Developing region	Central America	Central-America-n-Caribbean
 36	2024-09-11 16:16:09.249553+00	Bermuda	Bermuda	Dependency	60	BD	North America	2. High income: nonOECD	2. Developed region: nonG7	Northern America	North-America
-37	2024-09-11 16:16:09.249553+00	Bolivia	Bolivia	Sovereign country	068	BL	South America	4. Lower middle income	5. Emerging region: G20	South America	South-America
+37	2024-09-11 16:16:09.249553+00	Bolivia	Bolivia	Sovereign country	68	BL	South America	4. Lower middle income	5. Emerging region: G20	South America	South-America
 38	2024-09-11 16:16:09.249553+00	Brazil	Brazil	Sovereign country	076	BR	South America	3. Upper middle income	3. Emerging region: BRIC	South America	South-America
 39	2024-09-11 16:16:09.249553+00	Barbados	Barbados	Sovereign country	52	BB	North America	2. High income: nonOECD	6. Developing region	Caribbean	Central-America-n-Caribbean
 40	2024-09-11 16:16:09.249553+00	Brunei	Brunei Darussalam	Sovereign country	96	BX	Asia	2. High income: nonOECD	6. Developing region	South-Eastern Asia	East-n-Southeast-Asia
-41	2024-09-11 16:16:09.249553+00	Bhutan	Bhutan	Sovereign country	064	BT	Asia	4. Lower middle income	7. Least developed region	Southern Asia	South-Asia
+41	2024-09-11 16:16:09.249553+00	Bhutan	Bhutan	Sovereign country	64	BT	Asia	4. Lower middle income	7. Least developed region	Southern Asia	South-Asia
 42	2024-09-11 16:16:09.249553+00	Botswana	Botswana	Sovereign country	072	BC	Africa	3. Upper middle income	6. Developing region	Southern Africa	Africa
 43	2024-09-11 16:16:09.249553+00	Central African Rep.	Central African Republic	Sovereign country	140	CT	Africa	5. Low income	7. Least developed region	Middle Africa	Africa
 44	2024-09-11 16:16:09.249553+00	Canada	Canada	Sovereign country	124	CA	North America	1. High income: OECD	1. Developed region: G7	Northern America	North-America
@@ -65,7 +65,7 @@ id	created_at	name	name_long	type	iso_n3	iso_a2	continent	income_grp	economy	sub
 64	2024-09-11 16:16:09.249553+00	Dominica	Dominica	Sovereign country	212	DO	North America	3. Upper middle income	6. Developing region	Caribbean	Central-America-n-Caribbean
 65	2024-09-11 16:16:09.249553+00	Denmark	Denmark	Country	208	DA	Europe	1. High income: OECD	2. Developed region: nonG7	Northern Europe	Europe
 66	2024-09-11 16:16:09.249553+00	Dominican Rep.	Dominican Republic	Sovereign country	214	DR	North America	3. Upper middle income	6. Developing region	Caribbean	Central-America-n-Caribbean
-67	2024-09-11 16:16:09.249553+00	Algeria	Algeria	Sovereign country	12	DZ	Africa	3. Upper middle income	6. Developing region	Northern Africa	Africa
+67	2024-09-11 16:16:09.249553+00	Algeria	Algeria	Sovereign country	012	DZ	Africa	3. Upper middle income	6. Developing region	Northern Africa	Africa
 68	2024-09-11 16:16:09.249553+00	Ecuador	Ecuador	Sovereign country	218	EC	South America	3. Upper middle income	6. Developing region	South America	South-America
 69	2024-09-11 16:16:09.249553+00	Egypt	Egypt	Sovereign country	818	EG	Africa	4. Lower middle income	5. Emerging region: G20	Northern Africa	Africa
 70	2024-09-11 16:16:09.249553+00	Eritrea	Eritrea	Sovereign country	232	ER	Africa	5. Low income	7. Least developed region	Eastern Africa	Africa
