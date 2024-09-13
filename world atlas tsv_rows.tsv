@@ -225,7 +225,7 @@ id	created_at	name	name_long	type	iso_n3	iso_a2	continent	income_grp	economy	sub
 224	2024-09-11 16:16:09.249553+00	Uganda	Uganda	Sovereign country	800	UG	Africa	5. Low income	7. Least developed region	Eastern Africa	Africa
 225	2024-09-11 16:16:09.249553+00	Ukraine	Ukraine	Sovereign country	804	UA	Europe	4. Lower middle income	6. Developing region	Eastern Europe	Europe
 226	2024-09-11 16:16:09.249553+00	Uruguay	Uruguay	Sovereign country	858	UY	South America	3. Upper middle income	5. Emerging region: G20	South America	South-America
-227	2024-09-11 16:16:09.249553+00	United States	United States	Country	841	US	North America	1. High income: OECD	1. Developed region: G7	Northern America	North-America
+227	2024-09-11 16:16:09.249553+00	United States	United States	Country	840	US	North America	1. High income: OECD	1. Developed region: G7	Northern America	North-America
 228	2024-09-11 16:16:09.249553+00	Uzbekistan	Uzbekistan	Sovereign country	860	UZ	Asia	4. Lower middle income	6. Developing region	Central Asia	Central Asia
 229	2024-09-11 16:16:09.249553+00	Vatican	Vatican	Sovereign country	336	VT	Europe	2. High income: nonOECD	2. Developed region: nonG7	Southern Europe	Europe
 230	2024-09-11 16:16:09.249553+00	St. Vin. and Gren.	Saint Vincent and the Grenadines	Sovereign country	670	VC	North America	3. Upper middle income	6. Developing region	Caribbean	Central-America-n-Caribbean
