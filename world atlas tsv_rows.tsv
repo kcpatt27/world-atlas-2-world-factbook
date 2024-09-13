@@ -168,7 +168,7 @@ id	created_at	name	name_long	type	iso_n3	iso_a2	continent	income_grp	economy	sub
 167	2024-09-11 16:16:09.249553+00	Nauru	Nauru	Sovereign country	521	NR	Oceania	4. Lower middle income	6. Developing region	Micronesia	Australia-Oceania
 168	2024-09-11 16:16:09.249553+00	New Zealand	New Zealand	Country	554	NZ	Oceania	1. High income: OECD	2. Developed region: nonG7	Australia and New Zealand	Australia-Oceania
 169	2024-09-11 16:16:09.249553+00	Oman	Oman	Sovereign country	512	MU	Asia	2. High income: nonOECD	6. Developing region	Western Asia	Middle-East
-170	2024-09-11 16:16:09.249553+00	Pakistan	Pakistan	Sovereign country	586	PK	Asia	4. Lower middle income	5. Emerging region: G20	Southern Asia	South-Asia 
+170	2024-09-11 16:16:09.249553+00	Pakistan	Pakistan	Sovereign country	586	PK	Asia	4. Lower middle income	5. Emerging region: G20	Southern Asia	South-Asia
 171	2024-09-11 16:16:09.249553+00	Panama	Panama	Sovereign country	591	PM	North America	3. Upper middle income	6. Developing region	Central America	Central-America-n-Caribbean
 172	2024-09-11 16:16:09.249553+00	Pitcairn Is.	Pitcairn Islands	Dependency	612	PC	Oceania	5. Low income	7. Least developed region	Polynesia	Australia-Oceania
 173	2024-09-11 16:16:09.249553+00	Peru	Peru	Sovereign country	604	PE	South America	3. Upper middle income	5. Emerging region: G20	South America	South-America
