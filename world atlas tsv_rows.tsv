@@ -223,7 +223,7 @@ id	created_at	name	name_long	type	iso_n3	iso_a2	continent	income_grp	economy	sub
 222	2024-09-11 16:16:09.249553+00	Taiwan	Taiwan	Sovereign country	158	TW	Asia	2. High income: nonOECD	2. Developed region: nonG7	Eastern Asia	East-n-Southeast-Asia
 223	2024-09-11 16:16:09.249553+00	Tanzania	Tanzania	Sovereign country	834	TZ	Africa	5. Low income	7. Least developed region	Eastern Africa	Africa
 224	2024-09-11 16:16:09.249553+00	Uganda	Uganda	Sovereign country	801	UG	Africa	5. Low income	7. Least developed region	Eastern Africa	Africa
-225	2024-09-11 16:16:09.249553+00	Ukraine	Ukraine	Sovereign country	804	UA	Europe	4. Lower middle income	6. Developing region	Eastern Europe	Europe
+225	2024-09-11 16:16:09.249553+00	Ukraine	Ukraine	Sovereign country	804	UP	Europe	4. Lower middle income	6. Developing region	Eastern Europe	Europe
 226	2024-09-11 16:16:09.249553+00	Uruguay	Uruguay	Sovereign country	858	UY	South America	3. Upper middle income	5. Emerging region: G20	South America	South-America
 227	2024-09-11 16:16:09.249553+00	United States	United States	Country	841	US	North America	1. High income: OECD	1. Developed region: G7	Northern America	North-America
 228	2024-09-11 16:16:09.249553+00	Uzbekistan	Uzbekistan	Sovereign country	861	UZ	Asia	4. Lower middle income	6. Developing region	Central Asia	Central Asia
