@@ -65,7 +65,7 @@ id	created_at	name	name_long	type	iso_n3	iso_a2	continent	income_grp	economy	sub
 64	2024-09-11 16:16:09.249553+00	Dominica	Dominica	Sovereign country	212	DO	North America	3. Upper middle income	6. Developing region	Caribbean	Central-America-n-Caribbean
 65	2024-09-11 16:16:09.249553+00	Denmark	Denmark	Country	208	DA	Europe	1. High income: OECD	2. Developed region: nonG7	Northern Europe	Europe
 66	2024-09-11 16:16:09.249553+00	Dominican Rep.	Dominican Republic	Sovereign country	214	DR	North America	3. Upper middle income	6. Developing region	Caribbean	Central-America-n-Caribbean
-67	2024-09-11 16:16:09.249553+00	Algeria	Algeria	Sovereign country	012	DZ	Africa	3. Upper middle income	6. Developing region	Northern Africa	Africa
+67	2024-09-11 16:16:09.249553+00	Algeria	Algeria	Sovereign country	012	AG	Africa	3. Upper middle income	6. Developing region	Northern Africa	Africa
 68	2024-09-11 16:16:09.249553+00	Ecuador	Ecuador	Sovereign country	218	EC	South America	3. Upper middle income	6. Developing region	South America	South-America
 69	2024-09-11 16:16:09.249553+00	Egypt	Egypt	Sovereign country	818	EG	Africa	4. Lower middle income	5. Emerging region: G20	Northern Africa	Africa
 70	2024-09-11 16:16:09.249553+00	Eritrea	Eritrea	Sovereign country	232	ER	Africa	5. Low income	7. Least developed region	Eastern Africa	Africa
