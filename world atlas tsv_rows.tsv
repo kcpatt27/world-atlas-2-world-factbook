@@ -184,7 +184,7 @@ id	created_at	name	name_long	type	iso_n3	iso_a2	continent	income_grp	economy	sub
 183	2024-09-11 16:16:09.249553+00	Fr. Polynesia	French Polynesia	Dependency	258	FP	Oceania	2. High income: nonOECD	6. Developing region	Polynesia	Australia-Oceania
 184	2024-09-11 16:16:09.249553+00	Qatar	Qatar	Sovereign country	634	QA	Asia	2. High income: nonOECD	6. Developing region	Western Asia	Middle-East
 185	2024-09-11 16:16:09.249553+00	Romania	Romania	Sovereign country	642	RO	Europe	3. Upper middle income	2. Developed region: nonG7	Eastern Europe	Europe
-186	2024-09-11 16:16:09.249553+00	Russia	Russian Federation	Sovereign country	643	RS	Europe	3. Upper middle income	3. Emerging region: BRIC	Eastern Europe	Europe
+186	2024-09-11 16:16:09.249553+00	Russia	Russian Federation	Sovereign country	643	RS	Europe	3. Upper middle income	3. Emerging region: BRIC	Eastern Europe	Central-Asia
 187	2024-09-11 16:16:09.249553+00	Rwanda	Rwanda	Sovereign country	646	RW	Africa	5. Low income	7. Least developed region	Eastern Africa	Africa
 188	2024-09-11 16:16:09.249553+00	Saudi Arabia	Saudi Arabia	Sovereign country	682	SA	Asia	2. High income: nonOECD	2. Developed region: nonG7	Western Asia	Middle-East
 189	2024-09-11 16:16:09.249553+00	Sudan	Sudan	Sovereign country	729	SU	Africa	4. Lower middle income	6. Developing region	Northern Africa	Africa
