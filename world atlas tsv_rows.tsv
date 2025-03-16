@@ -1,7 +1,7 @@
 id	created_at	name	name_long	type	iso_n3	iso_a2	continent	income_grp	economy	subregion	folder
 1	2024-09-11 16:16:09.249553+00	Indian Ocean Ter.	Indian Ocean Territories	Dependency	98	XO	Asia	2. High income: nonOECD	2. Developed region: nonG7	Seven seas (open ocean)	Oceans
 2	2024-09-11 16:16:09.249553+00	Siachen Glacier	Siachen Glacier	Indeterminate	-99	-99	Asia	4. Lower middle income	6. Developing region	Southern Asia	
-3	2024-09-11 16:16:09.249553+00	Kosovo	Kosovo	Sovereign country	097	KV	Europe	4. Lower middle income	6. Developing region	Southern Europe	Europe
+3	2024-09-11 16:16:09.249553+00	Kosovo	Kosovo	Sovereign country	096	KV	Europe	4. Lower middle income	6. Developing region	Southern Europe	Europe
 4	2024-09-11 16:16:09.249553+00	Somaliland	Somaliland	Indeterminate	-99	-99	Africa	4. Lower middle income	6. Developing region	Eastern Africa	Africa
 5	2024-09-11 16:16:09.249553+00	N. Cyprus	Northern Cyprus	Sovereign country	196	CY	Asia	3. Upper middle income	6. Developing region	Western Asia	
 6	2024-09-11 16:16:09.249553+00	Ashmore and Cartier Is.	Ashmore and Cartier Islands	Dependency	037	AT	Oceania	5. Low income	7. Least developed region	Australia and New Zealand	Australia-Oceania
@@ -11,34 +11,34 @@ id	created_at	name	name_long	type	iso_n3	iso_a2	continent	income_grp	economy	sub
 10	2024-09-11 16:16:09.249553+00	Anguilla	Anguilla	Dependency	660	AV	North America	3. Upper middle income	6. Developing region	Caribbean	Central-America-n-Caribbean
 11	2024-09-11 16:16:09.249553+00	Aland	Aland Islands	Country	248	AX	Europe	1. High income: OECD	2. Developed region: nonG7	Northern Europe	Europe
 12	2024-09-11 16:16:09.249553+00	Albania	Albania	Sovereign country	008	AL	Europe	4. Lower middle income	6. Developing region	Southern Europe	Europe
-13	2024-09-11 16:16:09.249553+00	Andorra	Andorra	Sovereign country	20	AN	Europe	2. High income: nonOECD	2. Developed region: nonG7	Southern Europe	Europe
+13	2024-09-11 16:16:09.249553+00	Andorra	Andorra	Sovereign country	020	AN	Europe	2. High income: nonOECD	2. Developed region: nonG7	Southern Europe	Europe
 14	2024-09-11 16:16:09.249553+00	United Arab Emirates	United Arab Emirates	Sovereign country	784	AE	Asia	2. High income: nonOECD	6. Developing region	Western Asia	Middle-East
 15	2024-09-11 16:16:09.249553+00	Argentina	Argentina	Sovereign country	032	AR	South America	3. Upper middle income	5. Emerging region: G20	South America	South-America
 16	2024-09-11 16:16:09.249553+00	Armenia	Armenia	Sovereign country	051	AM	Asia	4. Lower middle income	6. Developing region	Western Asia	Middle-East
-17	2024-09-11 16:16:09.249553+00	American Samoa	American Samoa	Dependency	16	AQ	Oceania	3. Upper middle income	6. Developing region	Polynesia	Australia-Oceania
+17	2024-09-11 16:16:09.249553+00	American Samoa	American Samoa	Dependency	016	AQ	Oceania	3. Upper middle income	6. Developing region	Polynesia	Australia-Oceania
 18	2024-09-11 16:16:09.249553+00	Antarctica	Antarctica	Indeterminate	011	AY	Antarctica	2. High income: nonOECD	6. Developing region	Antarctica	Antarctica
 19	2024-09-11 16:16:09.249553+00	Fr. S. Antarctic Lands	French Southern and Antarctic Lands	Dependency	260	FS	Seven seas (open ocean)	2. High income: nonOECD	6. Developing region	Seven seas (open ocean)	Antarctica
 20	2024-09-11 16:16:09.249553+00	Antigua and Barb.	Antigua and Barbuda	Sovereign country	28	AC	North America	3. Upper middle income	6. Developing region	Caribbean	Central-America-n-Caribbean
 21	2024-09-11 16:16:09.249553+00	Australia	Australia	Country	036	AS	Oceania	1. High income: OECD	2. Developed region: nonG7	Australia and New Zealand	Australia-Oceania
 22	2024-09-11 16:16:09.249553+00	Austria	Austria	Sovereign country	041	AU	Europe	1. High income: OECD	2. Developed region: nonG7	Western Europe	Europe
-23	2024-09-11 16:16:09.249553+00	Azerbaijan	Azerbaijan	Sovereign country	31	AJ	Asia	3. Upper middle income	6. Developing region	Western Asia	Middle-East
+23	2024-09-11 16:16:09.249553+00	Azerbaijan	Azerbaijan	Sovereign country	031	AJ	Asia	3. Upper middle income	6. Developing region	Western Asia	Middle-East
 24	2024-09-11 16:16:09.249553+00	Burundi	Burundi	Sovereign country	108	BY	Africa	5. Low income	7. Least developed region	Eastern Africa	Africa
 25	2024-09-11 16:16:09.249553+00	Belgium	Belgium	Sovereign country	056	BE	Europe	1. High income: OECD	2. Developed region: nonG7	Western Europe	Europe
 26	2024-09-11 16:16:09.249553+00	Benin	Benin	Sovereign country	204	BN	Africa	5. Low income	7. Least developed region	Western Africa	Africa
 27	2024-09-11 16:16:09.249553+00	Burkina Faso	Burkina Faso	Sovereign country	854	UV	Africa	5. Low income	7. Least developed region	Western Africa	Africa
 28	2024-09-11 16:16:09.249553+00	Bangladesh	Bangladesh	Sovereign country	050	BG	Asia	5. Low income	7. Least developed region	Southern Asia	South-Asia
 29	2024-09-11 16:16:09.249553+00	Bulgaria	Bulgaria	Sovereign country	100	BU	Europe	3. Upper middle income	2. Developed region: nonG7	Eastern Europe	Europe
-30	2024-09-11 16:16:09.249553+00	Bahrain	Bahrain	Sovereign country	48	BA	Asia	2. High income: nonOECD	6. Developing region	Western Asia	Middle-East
-31	2024-09-11 16:16:09.249553+00	Bahamas	Bahamas	Sovereign country	44	BF	North America	2. High income: nonOECD	6. Developing region	Caribbean	Central-America-n-Caribbean
+30	2024-09-11 16:16:09.249553+00	Bahrain	Bahrain	Sovereign country	048	BA	Asia	2. High income: nonOECD	6. Developing region	Western Asia	Middle-East
+31	2024-09-11 16:16:09.249553+00	Bahamas	Bahamas	Sovereign country	044	BF	North America	2. High income: nonOECD	6. Developing region	Caribbean	Central-America-n-Caribbean
 32	2024-09-11 16:16:09.249553+00	Bosnia and Herz.	Bosnia and Herzegovina	Sovereign country	070	BK	Europe	3. Upper middle income	6. Developing region	Southern Europe	Europe
 33	2024-09-11 16:16:09.249553+00	St-Barthélemy	Saint-Barthélemy	Dependency	652	TB	North America	1. High income: OECD	2. Developed region: nonG7	Caribbean	Central-America-n-Caribbean
 34	2024-09-11 16:16:09.249553+00	Belarus	Belarus	Sovereign country	112	BO	Europe	3. Upper middle income	6. Developing region	Eastern Europe	Europe
 35	2024-09-11 16:16:09.249553+00	Belize	Belize	Sovereign country	084	BH	North America	4. Lower middle income	6. Developing region	Central America	Central-America-n-Caribbean
-36	2024-09-11 16:16:09.249553+00	Bermuda	Bermuda	Dependency	60	BD	North America	2. High income: nonOECD	2. Developed region: nonG7	Northern America	North-America
+36	2024-09-11 16:16:09.249553+00	Bermuda	Bermuda	Dependency	060	BD	North America	2. High income: nonOECD	2. Developed region: nonG7	Northern America	North-America
 37	2024-09-11 16:16:09.249553+00	Bolivia	Bolivia	Sovereign country	068	BL	South America	4. Lower middle income	5. Emerging region: G20	South America	South-America
 38	2024-09-11 16:16:09.249553+00	Brazil	Brazil	Sovereign country	076	BR	South America	3. Upper middle income	3. Emerging region: BRIC	South America	South-America
-39	2024-09-11 16:16:09.249553+00	Barbados	Barbados	Sovereign country	52	BB	North America	2. High income: nonOECD	6. Developing region	Caribbean	Central-America-n-Caribbean
-40	2024-09-11 16:16:09.249553+00	Brunei	Brunei Darussalam	Sovereign country	96	BX	Asia	2. High income: nonOECD	6. Developing region	South-Eastern Asia	East-n-Southeast-Asia
+39	2024-09-11 16:16:09.249553+00	Barbados	Barbados	Sovereign country	052	BB	North America	2. High income: nonOECD	6. Developing region	Caribbean	Central-America-n-Caribbean
+40	2024-09-11 16:16:09.249553+00	Brunei	Brunei Darussalam	Sovereign country	096	BX	Asia	2. High income: nonOECD	6. Developing region	South-Eastern Asia	East-n-Southeast-Asia
 41	2024-09-11 16:16:09.249553+00	Bhutan	Bhutan	Sovereign country	064	BT	Asia	4. Lower middle income	7. Least developed region	Southern Asia	South-Asia
 42	2024-09-11 16:16:09.249553+00	Botswana	Botswana	Sovereign country	072	BC	Africa	3. Upper middle income	6. Developing region	Southern Africa	Africa
 43	2024-09-11 16:16:09.249553+00	Central African Rep.	Central African Republic	Sovereign country	140	CT	Africa	5. Low income	7. Least developed region	Middle Africa	Africa
@@ -103,7 +103,7 @@ id	created_at	name	name_long	type	iso_n3	iso_a2	continent	income_grp	economy	sub
 102	2024-09-11 16:16:09.249553+00	Indonesia	Indonesia	Sovereign country	361	ID	Asia	4. Lower middle income	4. Emerging region: MIKT	South-Eastern Asia	East-n-Southeast-Asia
 103	2024-09-11 16:16:09.249553+00	Isle of Man	Isle of Man	Country	833	IM	Europe	2. High income: nonOECD	2. Developed region: nonG7	Northern Europe	Europe
 104	2024-09-11 16:16:09.249553+00	India	India	Sovereign country	356	IN	Asia	4. Lower middle income	3. Emerging region: BRIC	Southern Asia	South-Asia
-105	2024-09-11 16:16:09.249553+00	Br. Indian Ocean Ter.	British Indian Ocean Territory	Dependency	86	IO	Seven seas (open ocean)	2. High income: nonOECD	2. Developed region: nonG7	Seven seas (open ocean)	South-Asia
+105	2024-09-11 16:16:09.249553+00	Br. Indian Ocean Ter.	British Indian Ocean Territory	Dependency	086	IO	Seven seas (open ocean)	2. High income: nonOECD	2. Developed region: nonG7	Seven seas (open ocean)	South-Asia
 106	2024-09-11 16:16:09.249553+00	Ireland	Ireland	Sovereign country	372	EI	Europe	1. High income: OECD	2. Developed region: nonG7	Northern Europe	Europe
 107	2024-09-11 16:16:09.249553+00	Iran	Iran	Sovereign country	364	IR	Asia	3. Upper middle income	5. Emerging region: G20	Southern Asia	Middle-East
 108	2024-09-11 16:16:09.249553+00	Iraq	Iraq	Sovereign country	368	IZ	Asia	4. Lower middle income	6. Developing region	Western Asia	Middle-East
@@ -192,7 +192,7 @@ id	created_at	name	name_long	type	iso_n3	iso_a2	continent	income_grp	economy	sub
 191	2024-09-11 16:16:09.249553+00	Singapore	Singapore	Sovereign country	702	SN	Asia	2. High income: nonOECD	6. Developing region	South-Eastern Asia	East-n-Southeast-Asia
 192	2024-09-11 16:16:09.249553+00	S. Geo. and S. Sandw. Is.	South Georgia and South Sandwich Islands	Dependency	239	SX	Seven seas (open ocean)	5. Low income	7. Least developed region	Seven seas (open ocean)	South-America
 193	2024-09-11 16:16:09.249553+00	Saint Helena	Saint Helena	Dependency	654	SH	Seven seas (open ocean)	4. Lower middle income	6. Developing region	Western Africa	Africa
-194	2024-09-11 16:16:09.249553+00	Solomon Is.	Solomon Islands	Sovereign country	90	BP	Oceania	4. Lower middle income	7. Least developed region	Melanesia	Australia-Oceania
+194	2024-09-11 16:16:09.249553+00	Solomon Is.	Solomon Islands	Sovereign country	090	BP	Oceania	4. Lower middle income	7. Least developed region	Melanesia	Australia-Oceania
 195	2024-09-11 16:16:09.249553+00	Sierra Leone	Sierra Leone	Sovereign country	694	SL	Africa	5. Low income	7. Least developed region	Western Africa	Africa
 196	2024-09-11 16:16:09.249553+00	El Salvador	El Salvador	Sovereign country	222	ES	North America	4. Lower middle income	6. Developing region	Central America	Central-America-n-Caribbean
 197	2024-09-11 16:16:09.249553+00	San Marino	San Marino	Sovereign country	674	SM	Europe	2. High income: nonOECD	2. Developed region: nonG7	Southern Europe	Europe
@@ -230,7 +230,7 @@ id	created_at	name	name_long	type	iso_n3	iso_a2	continent	income_grp	economy	sub
 229	2024-09-11 16:16:09.249553+00	Vatican	Vatican	Sovereign country	336	VT	Europe	2. High income: nonOECD	2. Developed region: nonG7	Southern Europe	Europe
 230	2024-09-11 16:16:09.249553+00	St. Vin. and Gren.	Saint Vincent and the Grenadines	Sovereign country	670	VC	North America	3. Upper middle income	6. Developing region	Caribbean	Central-America-n-Caribbean
 231	2024-09-11 16:16:09.249553+00	Venezuela	Venezuela	Sovereign country	862	VE	South America	3. Upper middle income	5. Emerging region: G20	South America	South-America
-232	2024-09-11 16:16:09.249553+00	British Virgin Is.	British Virgin Islands	Dependency	92	VI	North America	1. High income: OECD	2. Developed region: nonG7	Caribbean	Central-America-n-Caribbean
+232	2024-09-11 16:16:09.249553+00	British Virgin Is.	British Virgin Islands	Dependency	092	VI	North America	1. High income: OECD	2. Developed region: nonG7	Caribbean	Central-America-n-Caribbean
 233	2024-09-11 16:16:09.249553+00	U.S. Virgin Is.	United States Virgin Islands	Dependency	850	VQ	North America	2. High income: nonOECD	6. Developing region	Caribbean	Central-America-n-Caribbean
 234	2024-09-11 16:16:09.249553+00	Vietnam	Vietnam	Sovereign country	704	VM	Asia	4. Lower middle income	5. Emerging region: G20	South-Eastern Asia	East-n-Southeast-Asia
 235	2024-09-11 16:16:09.249553+00	Vanuatu	Vanuatu	Sovereign country	548	NH	Oceania	4. Lower middle income	7. Least developed region	Melanesia	Australia-Oceania
