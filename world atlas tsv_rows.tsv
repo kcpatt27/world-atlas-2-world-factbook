@@ -241,4 +241,4 @@ id	created_at	name	name_long	type	iso_n3	iso_a2	continent	income_grp	economy	sub
 240	2024-09-11 16:16:09.249553+00	Zambia	Zambia	Sovereign country	894	ZA	Africa	4. Lower middle income	7. Least developed region	Eastern Africa	Africa
 241	2024-09-11 16:16:09.249553+00	Zimbabwe	Zimbabwe	Sovereign country	716	ZI	Africa	5. Low income	5. Emerging region: G20	Eastern Africa	Africa
 242	2024-09-11 16:16:09.249553+00	Cocos Is.	Cocos (Keeling) Island	Dependency	707	CK	Oceania	4. Lower middle income	7. Least developed region	Melanesia	Australia-Oceania
-243	2024-09-11 16:16:09.249553+00	Christmas Is.	Christmas Island	Dependency	707	CX	Oceania	4. Lower middle income	7. Least developed region	Melanesia	Australia-Oceania 
+243	2024-09-11 16:16:09.249553+00	Christmas Is.	Christmas Island	Dependency	709	CX	Oceania	4. Lower middle income	7. Least developed region	Melanesia	Australia-Oceania 
