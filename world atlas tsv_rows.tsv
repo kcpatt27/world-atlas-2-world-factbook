@@ -3,7 +3,7 @@ id	created_at	name	name_long	type	iso_n3	iso_a2	continent	income_grp	economy	sub
 2	2024-09-11 16:16:09.249553+00	Siachen Glacier	Siachen Glacier	Indeterminate	099	SX	Asia	4. Lower middle income	6. Developing region	Southern Asia	
 3	2024-09-11 16:16:09.249553+00	Kosovo	Kosovo	Sovereign country	-99	KV	Europe	4. Lower middle income	6. Developing region	Southern Europe	Europe
 4	2024-09-11 16:16:09.249553+00	Somaliland	Somaliland	Indeterminate	-99	SO	Africa	4. Lower middle income	6. Developing region	Eastern Africa	Africa
-5	2024-09-11 16:16:09.249553+00	N. Cyprus	Northern Cyprus	Sovereign country	-99	CY	Asia	3. Upper middle income	6. Developing region	Western Asia	Europe
+5	2024-09-11 16:16:09.249553+00	N. Cyprus	Northern Cyprus	Sovereign country	396	CY	Asia	3. Upper middle income	6. Developing region	Western Asia	Europe
 6	2024-09-11 16:16:09.249553+00	Ashmore and Cartier Is.	Ashmore and Cartier Islands	Dependency	037	AT	Oceania	5. Low income	7. Least developed region	Australia and New Zealand	Australia-Oceania
 7	2024-09-11 16:16:09.249553+00	Aruba	Aruba	Country	533	AA	North America	2. High income: nonOECD	6. Developing region	Caribbean	Central-America-n-Caribbean
 8	2024-09-11 16:16:09.249553+00	Afghanistan	Afghanistan	Sovereign country	004	AF	Asia	5. Low income	7. Least developed region	Southern Asia	South-Asia
